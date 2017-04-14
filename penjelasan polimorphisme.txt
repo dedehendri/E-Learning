@@ -1,0 +1,12 @@
+Suatu kemampuan dari sebuah object untuk mengijinkan mengambil beberapa bentuk
+yang berbeda agar tidak terjadi duplikasi object kita kenal, atau bisa disebut juga kemampuan objek-objek dengan kelas yang berbeda
+dan terkait di inheritence untuk merespon secara berbeda terhadap pesan yang sama.
+penjelasan codde:
+
+nama : kelas Polimorphism
+baris 1-9 program utama (polimorphism)
+baris 11-13 Super class 
+baris 17-21 kelas turunan "Balok" turunan dari kelas "PersegiPanjang"
+baris 23-27 kelas turunan "PersegiPanjang" turunan dari kelas "BangunDatar"
+baris 29-33 kelas turunan "BangunDatar" turunan dari kelas "Object"
+ 
